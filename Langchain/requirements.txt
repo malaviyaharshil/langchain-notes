@@ -34,4 +34,6 @@ grandalf
 pypdf
 chromadb
 bs4
+faiss-cpu
 wikipedia
+youtube-transcript-api

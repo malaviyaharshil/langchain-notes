@@ -3,7 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-experimental
-
+langchain-ollama-0.3.3
 # OpenAI Integration
 langchain-openai
 openai
@@ -37,3 +37,5 @@ bs4
 faiss-cpu
 wikipedia
 youtube-transcript-api
+duckduckgo-search
+ipykernel

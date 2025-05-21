@@ -3,7 +3,10 @@ langchain
 langchain-core
 langchain-community
 langchain-experimental
-langchain-ollama-0.3.3
+langchain-ollama
+langgraph
+langsmith
+langchain-groq
 # OpenAI Integration
 langchain-openai
 openai
@@ -39,3 +42,5 @@ wikipedia
 youtube-transcript-api
 duckduckgo-search
 ipykernel
+arxiv
+cassio
